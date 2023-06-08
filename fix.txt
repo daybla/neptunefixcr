@@ -1,0 +1,16 @@
+Neptune Client crash veriyorsa şu adımları uygulayın;
+TAKTİK
+1: Görev yöneticisini aç ve neptune.exe dosyasının görevini sonlandır.
+2: Craftrise'a girmeden önce hileyi yönetici olarak aç.
+3: Hileyi açtıktan sonra oyuna gir.
+4: Sol altta .gg/neptuneclient yazısı gelicek, gelmez ise diğer yöntemlere başvurun.
+YÖNTEM
+1: Görev yöneticisinden neptune.exe dosyasını bul ve görevini sonlandır
+2: Craftrise'a gir.
+3: Oyuna girerken R.A.C Yükleniyor (10/14) kısmında neptune.exe dosyasını yönetici olarak çalıştır.
+4: Sol altta .gg/neptuneclient yazısı gelicek, gelmez ise diğer yöntemlere başvurun.
+YÖNTEM
+1: Görev yöneticisinden neptune.exe dosyasını bul ve görevini sonlandır. 
+2: Oyuna gir 2-3 kere skywars gir.
+3: 2 ve ya 3 el girdikten sonra neptune.exe dosyasını yönetici olarak aç.
+4: Sol altta .gg/neptuneclient yazısı gelicek, gelmez ise diğer yöntemlere başvurun.
